@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "672096e59d88d57543c2b4dc",
+    "user": "672096e59d88d57543c2b4dc",
+    "date": "2022-04-01T00:00:00.000Z",
+    "mood_score": 6,
+    "activity": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "sleep": {
+      "sleep_score": 90,
+      "hours_of_sleep": "7:22:00",
+      "hours_in_bed": "?"
+    }
+  },
+  {
+    "_id": "672096e59d88d57543c2b4dd",
+    "user": "672096e59d88d57543c2b4dd",
+    "date": "2022-04-01T00:00:00.000Z",
+    "mood_score": 8,
+    "activity": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "sleep": {
+      "sleep_score": 83,
+      "hours_of_sleep": "7:27:00",
+      "hours_in_bed": "?"
+    }
+  }
+]
